@@ -2,9 +2,16 @@
 
 ## Malik Alilovski, 211532
 
-## Control Flow Graph
+### Control Flow Graph
 
 ![211532 - Control Flow Graph](https://github.com/user-attachments/assets/ec787bad-4f47-46e8-aebf-6368fef610f9)
 
+### Цикломатска комплексност
 
-## Control Flow Graph
+Цикломатска комплексност на овој код е 13, преки формулата V(G)=E-N+2, каде што E=34 (edges), N=23 (nodes), па од овде стигнуваме во цикломатската комлексност да биде V(G)=34-23+2=13
+
+### Тест случаи според критериумот Every statement
+
+### Тест случаи според критериумот Every path
+
+### Објаснување на напишаните unit tests
