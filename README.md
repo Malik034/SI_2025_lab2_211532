@@ -31,12 +31,19 @@ testInvalidCardNumber - Aктивира условот if (cardNumber==null || c
 ### Тест случаи според критериумот Multiple Condition
 
 Test1: A(F), B(F), C(F), Никој услов не е исполнет
+
 Test2: A(F), B(F), C(T), Само C e true
+
 Test3: A(F), B(T), C(F), Само B e true
+
 Test4: A(F), B(T), C(T), Само A e false
+
 Test5: A(T), B(F), C(F), Само A e true
+
 Test6: A(T), B(F), C(T), Само B e false
+
 Test7: A(T), B(T), C(F), Само C e false
+
 Test8: A(T), B(T), C(T), Сите услови се исполнети
 
 Минималниот број на тест случаи потребни е 8.
