@@ -4,6 +4,7 @@
 
 ## Control Flow Graph
 
-![Software Engineering Lab Diagram PNG](https://github.com/user-attachments/assets/d4f2048f-c480-4309-b64b-c83799d5efd5)
+![211532 - Control Flow Graph](https://github.com/user-attachments/assets/ec787bad-4f47-46e8-aebf-6368fef610f9)
+
 
 ## Control Flow Graph
